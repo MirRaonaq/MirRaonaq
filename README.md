@@ -1,3 +1,11 @@
+Hi there 💫
+
+☁️ I’m currently working on Azure as a Customer Engineer for Microsoft 
+
+🤝 Reach out to me on LinkedIn to collaborate on projects or just for a discission : https://www.linkedin.com/in/mirraonaq/
+
+Check out my website: https://www.mirraonaq.com/
+
 ### Hi there 👋
 
 <!--
