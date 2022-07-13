@@ -1,10 +1,10 @@
 ### Hello! 💫
 
-☁️ I’m currently working on Azure as a Customer Engineer for Microsoft 
+☁️ I’m currently working on Azure Infrastructure & SaSS as a Cloud Solutions Architect at Microsoft
 
 🤝 Reach out to me on LinkedIn to collaborate on projects or just for a discussion : https://www.linkedin.com/in/mirraonaq/
 
-Check out my website: https://www.mirraonaq.com/
+⚡ Check out my website: https://www.mirraonaq.com/
 
 <!--
 **MirRaonaq/MirRaonaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
