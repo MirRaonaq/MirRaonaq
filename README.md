@@ -1,6 +1,6 @@
 ### Hello! 💫
 
-☁️ I’m currently working on Azure Infrastructure & SaSS as a Cloud Solutions Architect at Microsoft
+☁️ I’m currently working on Azure Infrastructure as a Cloud Solutions Architect at Microsoft
 
 🤝 Reach out to me on LinkedIn to collaborate on projects or just for a discussion : https://www.linkedin.com/in/mirraonaq/
 
